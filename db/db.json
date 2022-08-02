@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "name": "Anil Sidhu",
+      "email": "anil@test.com",
+      "password": "anil@123",
+      "id": 1
+    },
+    {
+      "email": "p@test.com",
+      "password": "abc@123",
+      "name": "Prathibha",
+      "id": 2
+    },
+    {
+      "email": "bruce@test.com",
+      "password": "bruce@123",
+      "name": "Bruce",
+      "id": 3
+    },
+    {
+      "email": "rehana@test.com",
+      "password": "rehana@123",
+      "name": "Rehana",
+      "id": 4
+    },
+    {
+      "email": "john@test.com",
+      "password": "john@123",
+      "name": "John",
+      "id": 5
+    },
+    {
+      "email": "prabha@test.com",
+      "password": "prabha@123",
+      "name": "Prabha",
+      "id": 6
+    },
+    {
+      "name": "Anil Sidhu",
+      "email": "anil@test.com",
+      "password": "anil@123",
+      "id": 7
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Dominos",
+      "address": "Gurgaun sector 20",
+      "contact": "22222",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "contact": 44444,
+      "address": "Delhi CP"
+    },
+    {
+      "name": "RCB restaurant",
+      "contact": 44444,
+      "address": "Delhi ,rohini",
+      "id": 4
+    }
+  ]
+}
