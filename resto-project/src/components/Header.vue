@@ -19,7 +19,7 @@ export default {
 </script>
 <style>
 .nav{
-    background-color: #333;
+    background-color: #333; 
     overflow: hidden;
 }
 .nav a {

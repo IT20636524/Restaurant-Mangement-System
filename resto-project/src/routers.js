@@ -4,6 +4,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import Login from './components/Login'
 import Add from './components/Add'
 import Update from './components/Update'
+import AdminDash from './components/AdminDash'
 
 const routes = [
     {
@@ -30,6 +31,11 @@ const routes = [
         name:'Update',
         component:Update,
         path:'/update/:id'
+    },
+    {
+        name:'AdminDash',
+        component:AdminDash,
+        path:'/dash'
     }
 ]
 
